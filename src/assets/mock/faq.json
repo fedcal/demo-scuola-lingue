@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Come funziona il placement test gratuito?",
+      "risposta": "Prima di iscriverti, ogni studente sostiene un breve test di livello online (20 minuti) e un colloquio orale con un docente madrelingua. Sulla base dei risultati, ti consigliamo il corso più adatto al tuo livello CEFR attuale, evitando di iniziare da dove sai già tutto o di ritrovarti in un corso troppo avanzato."
+    },
+    {
+      "domanda": "I libri e i materiali didattici sono inclusi nel prezzo?",
+      "risposta": "Per i corsi di gruppo, il materiale fotocopiato e le dispense sono inclusi. I libri di testo adottati (es. Headway, Schritte, Aula) sono a carico dello studente al costo di copertina (€20-40). Per le lezioni private, tutto il materiale è incluso nella tariffa oraria. Per i corsi di preparazione certificazioni, il materiale ufficiale dell'ente esaminatore è compreso."
+    },
+    {
+      "domanda": "Posso cambiare livello a corso in corso?",
+      "risposta": "Sì, ogni mese valutiamo il progresso di ogni studente. Se il tuo livello supera significativamente quello del gruppo, ti proponiamo di scalare al livello superiore senza costi aggiuntivi nella finestra di cambio mensile. Questo succede di solito con studenti che avevano già basi della lingua e hanno solo bisogno di riattivare la conoscenza."
+    },
+    {
+      "domanda": "Le certificazioni Cambridge, DELE, Goethe e HSK sono riconosciute in Italia?",
+      "risposta": "Assolutamente sì. Tutte le certificazioni che prepariamo sono riconosciute dal MIUR, dalle università italiane e dalle aziende. Il Cambridge FCE e il Goethe B2 sono spesso richiesti per concorsi pubblici e posizioni aziendali. L'HSK è richiesto per i programmi di studio in Cina."
+    },
+    {
+      "domanda": "È possibile fare lezioni anche online?",
+      "risposta": "Sì, offriamo lezioni private online via Zoom o Google Meet con la stessa qualità delle lezioni in presenza. I corsi di gruppo si tengono prevalentemente in sede, ma in caso di necessità è possibile seguire da remoto tramite collegamento live. Il materiale viene condiviso in formato digitale."
+    },
+    {
+      "domanda": "Quanto dura un corso per raggiungere il livello B2 partendo da zero?",
+      "risposta": "Partendo da zero (A1), raggiungere il B2 richiede mediamente 18-24 mesi con un corso da 2-3 ore settimanali. I tempi variano in base alla lingua (il cinese richiede più tempo), alla frequenza, allo studio individuale a casa e all'immersione nella lingua (serie TV, musica, viaggi). Con lezioni private intensive i tempi si possono dimezzare."
+    },
+    {
+      "domanda": "Offrite corsi per aziende o gruppi di colleghi?",
+      "risposta": "Sì, collaboriamo con aziende del Veneto per corsi di Business English, Deutsch für den Beruf e Français des Affaires. Il programma viene costruito sulle esigenze specifiche del settore (manifatturiero, commerciale, turistico). Contattaci per un preventivo personalizzato."
+    },
+    {
+      "domanda": "Cosa succede se salto alcune lezioni?",
+      "risposta": "Per i corsi di gruppo, le lezioni non recuperate non vengono rimborsate, ma puoi accedere ai materiali e alle registrazioni della sessione. Puoi recuperare fino a 2 lezioni mancate al mese partecipando a un gruppo equivalente. Per le lezioni private, la cancellazione va comunicata almeno 24 ore prima per non perdere la lezione."
+    }
+  ]
+}

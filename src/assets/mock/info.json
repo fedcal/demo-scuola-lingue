@@ -1,0 +1,51 @@
+{
+  "ragioneSociale": "Babel Academy S.r.l.",
+  "nomeCommerciale": "Babel Academy",
+  "tagline": "Inglese, spagnolo, tedesco — corsi e certificazioni",
+  "fondazioneAnno": 2009,
+  "indirizzo": {
+    "via": "Corso Porta Nuova 18",
+    "citta": "Verona",
+    "provincia": "VR",
+    "cap": "37122",
+    "regione": "Veneto",
+    "paese": "Italia",
+    "lat": 45.4384,
+    "lng": 10.9916
+  },
+  "contatti": {
+    "telefono": "+39 045 555 0100",
+    "whatsapp": "+393355550100",
+    "email": "info@babelacademy.it",
+    "social": {
+      "instagram": "https://www.instagram.com/babelacademy_vr",
+      "facebook": "https://www.facebook.com/babelacademyverona"
+    }
+  },
+  "orari": {
+    "lunedi": "08:30 – 20:00",
+    "martedi": "08:30 – 20:00",
+    "mercoledi": "08:30 – 20:00",
+    "giovedi": "08:30 – 20:00",
+    "venerdi": "08:30 – 20:00",
+    "sabato": "09:00 – 13:00",
+    "domenica": "Chiuso"
+  },
+  "servizi": {
+    "placementTestGratuito": true,
+    "lezioniOnline": true,
+    "lezioniInPresenza": true,
+    "lezioniPrivate": true,
+    "corsiGruppo": true,
+    "preparazioneCertificazioni": true,
+    "corsiAziende": true,
+    "wifiGratuito": true,
+    "accessibileDisabili": true,
+    "bibliotecaMultilingue": true
+  },
+  "metaSeo": {
+    "title": "Babel Academy — Scuola di Lingue Verona | Corsi e Certificazioni",
+    "description": "Corsi di inglese, spagnolo, tedesco, francese e cinese a Verona. Livelli A1-C2, certificazioni Cambridge, DELE, Goethe, HSK. 8 docenti madrelingua.",
+    "keywords": ["scuola lingue Verona", "corsi inglese Verona", "corsi spagnolo", "Cambridge FCE", "DELE", "Goethe Zertifikat", "HSK cinese"]
+  }
+}

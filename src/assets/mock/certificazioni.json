@@ -1,0 +1,87 @@
+{
+  "certificazioni": [
+    {
+      "id": "cambridge",
+      "lingua": "inglese",
+      "flag": "🇬🇧",
+      "ente": "Cambridge Assessment English",
+      "nomeEnte": "Università di Cambridge",
+      "descrizione": "Le certificazioni Cambridge sono le più riconosciute al mondo per la lingua inglese, accettate da università, aziende e istituzioni in oltre 130 paesi.",
+      "sede": "Cambridge, Regno Unito",
+      "riconoscimento": "Mondiale",
+      "validita": "Illimitata (alcune a vita)",
+      "livelli": [
+        { "codice": "A2", "nome": "KET — Key English Test", "tassa": 95, "durata": "Circa 2 ore" },
+        { "codice": "B1", "nome": "PET — Preliminary English Test", "tassa": 130, "durata": "Circa 2,5 ore" },
+        { "codice": "B2", "nome": "FCE — First Certificate in English", "tassa": 175, "durata": "Circa 3,5 ore" },
+        { "codice": "C1", "nome": "CAE — Certificate in Advanced English", "tassa": 210, "durata": "Circa 4 ore" },
+        { "codice": "C2", "nome": "CPE — Certificate of Proficiency in English", "tassa": 245, "durata": "Circa 4,5 ore" }
+      ],
+      "sessioniAnno": ["Marzo", "Giugno", "Novembre", "Dicembre"],
+      "periodoPreparazione": "3-6 mesi (dipende dal livello di partenza)"
+    },
+    {
+      "id": "dele",
+      "lingua": "spagnolo",
+      "flag": "🇪🇸",
+      "ente": "Instituto Cervantes",
+      "nomeEnte": "Instituto Cervantes (per il Ministero dell'Istruzione spagnolo)",
+      "descrizione": "I DELE sono i titoli ufficiali che certificano il livello di competenza e dominio della lingua spagnola, rilasciati dal Ministero dell'Istruzione della Spagna.",
+      "sede": "Madrid, Spagna",
+      "riconoscimento": "Mondiale — accettato in 100+ paesi",
+      "validita": "Illimitata",
+      "livelli": [
+        { "codice": "A1", "nome": "DELE A1", "tassa": 90, "durata": "Circa 1,5 ore" },
+        { "codice": "A2", "nome": "DELE A2", "tassa": 110, "durata": "Circa 2 ore" },
+        { "codice": "B1", "nome": "DELE B1", "tassa": 140, "durata": "Circa 3 ore" },
+        { "codice": "B2", "nome": "DELE B2", "tassa": 175, "durata": "Circa 4 ore" },
+        { "codice": "C1", "nome": "DELE C1", "tassa": 200, "durata": "Circa 4,5 ore" },
+        { "codice": "C2", "nome": "DELE C2", "tassa": 230, "durata": "Circa 5 ore" }
+      ],
+      "sessioniAnno": ["Aprile", "Maggio", "Luglio", "Novembre"],
+      "periodoPreparazione": "4-6 mesi"
+    },
+    {
+      "id": "goethe",
+      "lingua": "tedesco",
+      "flag": "🇩🇪",
+      "ente": "Goethe-Institut",
+      "nomeEnte": "Goethe-Institut e.V.",
+      "descrizione": "Il Goethe-Zertifikat è il titolo ufficiale del Goethe-Institut per la lingua tedesca. Riconosciuto in tutto il mondo, è spesso richiesto per visti di lavoro e studio in Germania.",
+      "sede": "Monaco di Baviera, Germania",
+      "riconoscimento": "Mondiale — requisito per visto lavoro/studio Germania",
+      "validita": "Illimitata (A1-B1) / 5 anni (B2-C2)",
+      "livelli": [
+        { "codice": "A1", "nome": "Goethe-Zertifikat A1: Start Deutsch 1", "tassa": 100, "durata": "Circa 65 minuti" },
+        { "codice": "A2", "nome": "Goethe-Zertifikat A2", "tassa": 120, "durata": "Circa 75 minuti" },
+        { "codice": "B1", "nome": "Goethe-Zertifikat B1", "tassa": 155, "durata": "Circa 3,5 ore" },
+        { "codice": "B2", "nome": "Goethe-Zertifikat B2", "tassa": 190, "durata": "Circa 4,5 ore" },
+        { "codice": "C1", "nome": "Goethe-Zertifikat C1", "tassa": 225, "durata": "Circa 5 ore" },
+        { "codice": "C2", "nome": "Goethe-Zertifikat C2: Großes Deutsches Sprachdiplom", "tassa": 260, "durata": "Circa 6 ore" }
+      ],
+      "sessioniAnno": ["Febbraio", "Maggio", "Luglio", "Ottobre"],
+      "periodoPreparazione": "4-8 mesi"
+    },
+    {
+      "id": "hsk",
+      "lingua": "cinese",
+      "flag": "🇨🇳",
+      "ente": "Hanban / Confucio Institute Headquarters",
+      "nomeEnte": "Hanban — Centro Cinese per la Lingua",
+      "descrizione": "L'HSK (Hanyu Shuiping Kaoshi) è l'esame di stato cinese per la certificazione del livello di lingua mandarino per parlanti non nativi. Riconosciuto in Cina e internazionalmente.",
+      "sede": "Pechino, Cina",
+      "riconoscimento": "Mondiale — richiesto per università e lavoro in Cina",
+      "validita": "2 anni",
+      "livelli": [
+        { "codice": "A1", "nome": "HSK 1 — 150 caratteri", "tassa": 80, "durata": "Circa 40 minuti" },
+        { "codice": "A2", "nome": "HSK 2 — 300 caratteri", "tassa": 90, "durata": "Circa 55 minuti" },
+        { "codice": "B1", "nome": "HSK 3 — 600 caratteri", "tassa": 110, "durata": "Circa 85 minuti" },
+        { "codice": "B2", "nome": "HSK 4 — 1.200 caratteri", "tassa": 130, "durata": "Circa 105 minuti" },
+        { "codice": "C1", "nome": "HSK 5 — 2.500 caratteri", "tassa": 155, "durata": "Circa 125 minuti" },
+        { "codice": "C2", "nome": "HSK 6 — 5.000+ caratteri", "tassa": 180, "durata": "Circa 135 minuti" }
+      ],
+      "sessioniAnno": ["Marzo", "Maggio", "Luglio", "Settembre", "Novembre"],
+      "periodoPreparazione": "6-12 mesi (percorso più lungo per scrittura caratteri)"
+    }
+  ]
+}
