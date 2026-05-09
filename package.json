@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-scuola-lingue",
+  "name": "demo-scuola-lingue",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Scuola Lingue — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://scuola-lingue.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-scuola-lingue.git"
+    "url": "https://github.com/fedcal/demo-scuola-lingue.git"
   },
   "scripts": {
     "ng": "ng",

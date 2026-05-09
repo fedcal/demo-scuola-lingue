@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Scuola Lingue** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://scuola-lingue.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-scuola-lingue/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-scuola-lingue/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-scuola-lingue.git
-cd federico-demo-scuola-lingue
+git clone https://github.com/fedcal/demo-scuola-lingue.git
+cd demo-scuola-lingue
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:scuola-lingue
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-scuola-lingue/
+→ https://fedcal.github.io/demo-scuola-lingue/
 
 ## Hub demos Federico
 
